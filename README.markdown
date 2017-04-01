@@ -7,3 +7,5 @@ An example of the syntax:
       <bind service="Game.IWeapon" to="Game.Sword"/>
       <bind service="Game.IWarrior" toProvider="Game.SamuraiProvider"/>
     </module>
+    因为项目需要为 此项目 增加 属性注入能力
+    
